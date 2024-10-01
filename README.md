@@ -1,1 +1,1 @@
-This repository contains data to be used for the HSB3119 Introduction to Data Science course in HSB
+![image](https://github.com/user-attachments/assets/d18f6e30-249e-4c5b-95c7-36119055d5e3)
